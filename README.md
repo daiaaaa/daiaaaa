@@ -67,10 +67,13 @@ Software Engineer with strong experience in backend development using **Java and
 <p align="center">
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=daiaaaa&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=daiaaaa&layout=compact&langs_count=7&theme=tokyonight" />
+
+  <p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=daiaaaa&theme=tokyonight&area=true&hide_border=true" />
+</p>
   
 </p>
 </p>
-
 
 ---
 
