@@ -88,3 +88,6 @@ Software Engineer with strong experience in backend development using **Java and
 ## 🌱 Continuous Evolution
 > Technology only makes sense when it serves people.
 > I am driven by building solutions that are technically solid and meaningful to the community.
+> 
+
+![Visitors](https://komarev.com/ghpvc/?username=daiaaaa)
