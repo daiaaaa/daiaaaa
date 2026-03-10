@@ -8,23 +8,21 @@
 ---
 
 ## 💼 Professional Profile
-
 Software Engineer with strong experience in backend development using **Java and Spring Boot**, working with microservices architecture and legacy system migrations.
 
 ---
 
 ## 🧠 Core Competencies
-
-- Architecture & Microservices
-- REST API Development
-- Clean Code & SOLID Principles
-- Unit & Integration Testing (JUnit / Mockito)
-- SQL & Relational Databases
-- Agile Methodologies (Kanban)
-- Technical Debt Management
-- Production Monitoring & Support
-- Secure Software Development
-- Performance Optimization
+* Architecture & Microservices
+* REST API Development
+* Clean Code & SOLID Principles
+* Unit & Integration Testing (JUnit / Mockito)
+* SQL & Relational Databases
+* Agile Methodologies (Kanban)
+* Technical Debt Management
+* Production Monitoring & Support
+* Secure Software Development
+* Performance Optimization
 
 ---
 
@@ -34,6 +32,7 @@ Software Engineer with strong experience in backend development using **Java and
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### APIs & Architecture
 ![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge)
@@ -52,16 +51,11 @@ Software Engineer with strong experience in backend development using **Java and
 
 ### Data & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-Used for:
-- ETL processes
-- Data extraction & transformation
-- Automation scripts
+* Used for: ETL processes, Data extraction & Automation scripts.
 
 ---
 
 ## 🛠 Development Environment
-
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -70,28 +64,21 @@ Used for:
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daiaaaa&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daiaaaa&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daiaaaa&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=daiaaaa&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
-
-- Deepening AWS ecosystem knowledge
-- Strengthening architecture decision skills
-- Building resilient financial-grade systems
-- Improving observability and performance
+* Deepening AWS ecosystem knowledge
+* Strengthening architecture decision skills
+* Building resilient financial-grade systems
+* Improving observability and performance
 
 ---
 
 ## 🌱 Continuous Evolution
-
-Technology only makes sense when it serves people.
-
-I am driven by building solutions that are technically solid and meaningful to the community.
+> Technology only makes sense when it serves people.
+> I am driven by building solutions that are technically solid and meaningful to the community.
